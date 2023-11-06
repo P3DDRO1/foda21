@@ -38,7 +38,8 @@
 }
 
 .escola-titulo{
-    padding: 24;
+    padding: 50px 0;
+    text-align: center;
 }
 
 .estudante-ícone{
@@ -47,4 +48,23 @@
 
 .estudante-imagem{
     width: 15%;
+}
+
+.estudante-conteudo-div{
+    text-align: center;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
